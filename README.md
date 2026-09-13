@@ -237,4 +237,4 @@ This repository serves as the official landing page for .NET Framework 4. The so
 **Get the most recent version of .NET Framework 4 today!**
 
 ---
-**Last updated:** 2026-09-13 17:10:40 UTC
+**Last updated:** 2026-09-13 20:06:30 UTC
